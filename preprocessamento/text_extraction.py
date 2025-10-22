@@ -34,19 +34,19 @@ def extract_pymupdf():
     doc = fitz.open('normas/nbr5410.pdf')
     texto = ''
 
-    # Se for precisar fazer mais nuancias nessa extração de texto, investigar essa extração por 'blocks'.
+    # Se for precisar fazer mais nuancias nessa extração de texto, investigar essa extração por 'blocks' ai.
     for i in range(14, len(doc)):
         page = doc[i]
-        blocks = page.get_text('blocks')  # retorna uma lista de blocos [(x0, y0, x1, y1, texto, bloco_num), ...]
+        blocks = page.get_text('blocks')  
 
 
         for b in blocks:
-            block_text = b[4].replace('\n', ' ').strip()  # remove quebras internas do bloco
+            block_text = b[4].replace('\n', ' ').strip()  
             texto += block_text + '\n' 
     
     doc.close()
 
-    with open('texto_extraido_fitz2.txt', 'w', encoding='utf-8') as txt:
+    with open('texto_extraido.txt', 'w', encoding='utf-8') as txt:
         txt.write(texto)
 
 
