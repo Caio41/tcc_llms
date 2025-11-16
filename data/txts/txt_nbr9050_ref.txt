@@ -1,0 +1,169 @@
+As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas de uma ou mais rotas acessíveis. As ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais necessitam ser acessíveis em suas áreas de uso comum. As unidades autônomas acessíveis devem estar conectadas às rotas acessíveis. Áreas de uso restrito, conforme deﬁnido em 3.1.38, como casas de máquinas, barriletes, passagem de uso técnico e outros com funções similares, não necessitam atender às condições de acessibilidade desta Norma.
+
+-----------------------------------------------------------------------------
+
+A rota acessível é um trajeto contínuo, desobstruído e sinalizado, que conecta os ambientes externos e internos de espaços e ediﬁcações, e que pode ser utilizada de forma autônoma e segura por todas as pessoas. A rota acessível externa incorpora estacionamentos, calçadas, faixas de travessias de pedestres (elevadas ou não), rampas, escadas, passarelas e outros elementos da circulação. A rota acessível interna incorpora corredores, pisos, rampas, escadas, elevadores e outros elementos da circulação.
+
+-----------------------------------------------------------------------------
+
+Toda rota acessível deve ser provida de iluminação natural ou artiﬁcial com nível mínimo de ilu- minância de 150 lux medidos a 1,00 m do chão. São aceitos níveis inferiores de iluminância para ambientes especíﬁcos, como cinemas, teatros ou outros, conforme normas técnicas especíﬁcas.
+
+-----------------------------------------------------------------------------
+
+Nas ediﬁcações e equipamentos urbanos, todas as entradas, bem como as rotas de interligação às funções do edifício, devem ser acessíveis.
+
+-----------------------------------------------------------------------------
+
+Na adaptação de ediﬁcações e equipamentos urbanos existentes, todas as entradas devem ser acessíveis e, caso não seja possível, desde que comprovado tecnicamente, deve ser adaptado o maior número de acessos. Nestes casos a distância entre cada entrada acessível e as demais não pode ser superior a 50 m. A entrada predial principal, ou a entrada de acesso do maior número de pessoas, tem a obrigatoriedade de atender a todas as condições de acessibilidade. O acesso por entradas secundárias somente é aceito se esgotadas todas as possibilidades de adequação da entrada principal e se justiﬁcado tecnicamente.
+
+-----------------------------------------------------------------------------
+
+Os acessos devem ser vinculados através de rota acessível à circulação principal e às circulações de emergência. Os acessos devem permanecer livres de quaisquer obstáculos de forma permanente.
+
+-----------------------------------------------------------------------------
+
+O percurso entre o estacionamento de veículos e os acessos deve compor uma rota acessível. Quando da impraticabilidade de se executar rota acessível entre o estacionamento e acessos, devem ser previstas, em outro local, vagas de estacionamento para pessoas com deﬁciência e para pessoas idosas, a uma distância máxima de 50 m até um acesso acessível..2.5 Quando existirem dispositivos de segurança e para controle de acesso, do tipo catracas, cance- las, portas ou outros, pelo menos um deles em cada conjunto deve ser acessível, garantindo ao usuário o acesso, manobra, circulação e aproximação para o manuseio do equipamento com autonomia.
+
+-----------------------------------------------------------------------------
+
+A instalação do dispositivo acessível para controle de acesso deve prever manobra de cadeira de rodas, conforme o disposto em 4.3.2, 4.3.4 e 4.3.5, e os eventuais comandos acionáveis por usu- ários devem estar posicionados à altura indicada em 4.6.9.
+
+-----------------------------------------------------------------------------
+
+Quando existir porta giratória, deve ser prevista, junto a esta, outra entrada que garanta condições de acessibilidade. Portas giratórias devem ser evitadas, mas quando forem instaladas, as dimensões entre as pás devem ser compatíveis com as medidas necessárias para o deslocamento de uma pessoa em cadeira de rodas e devem ainda ser dotadas de sistema de segurança para rebatimento das pás em caso de sinistro.
+
+-----------------------------------------------------------------------------
+
+Deve ser prevista a sinalização informativa e direcional da localização das entradas e saídas acessíveis, de acordo com o estabelecido na Seção 5.
+
+-----------------------------------------------------------------------------
+
+A circulação pode ser horizontal e vertical. A circulação vertical pode ser realizada por escadas, rampas ou equipamentos eletromecânicos e é considerada acessível quando atender no mínimo a duas formas de deslocamento vertical.
+
+-----------------------------------------------------------------------------
+
+Os pisos devem atender às características de revestimento, inclinação e desnível, conforme descrito em 6.3.2 a 6.3.8.
+
+-----------------------------------------------------------------------------
+
+Os materiais de revestimento e acabamento devem ter superfície regular, ﬁrme, estável, não trepidante para dispositivos com rodas e antiderrapante, sob qualquer condição (seco ou molhado).
+Deve-se evitar a utilização de padronagem na superfície do piso que possa causar sensação de insegurança (por exemplo, estampas que pelo contraste de desenho ou cor possam causar a impressão de tridimensionalidade).
+
+-----------------------------------------------------------------------------
+
+A inclinação transversal da superfície deve ser de até 2 % para pisos internos e de até 3 % para pisos externos. A inclinação longitudinal da superfície deve ser inferior a 5 %. Inclinações iguais ou superiores a 5 % são consideradas rampas e, portanto, devem atender a 6.6.
+
+-----------------------------------------------------------------------------
+
+Desníveis de qualquer natureza devem ser evitados em rotas acessíveis. Eventuais desníveis no piso de até 5 mm dispensam tratamento especial. Desníveis superiores a 5 mm até 20 mm devem possuir inclinação máxima de 1:2 (50 %), conforme Figura 68. Desníveis superiores a 20 mm, quando inevitáveis, devem ser considerados como degraus, conforme 6.7.
+
+-----------------------------------------------------------------------------
+
+Em reformas, pode-se considerar o desnível máximo de 75 mm, tratado com inclinação máxima de 12,5 %, conforme
+
+-----------------------------------------------------------------------------
+
+Nas áreas de circulação, quando o desnível for lateral, observar o descrito em 4.3.7.
+
+-----------------------------------------------------------------------------
+
+As soleiras das portas ou vãos de passagem que apresentem desníveis de até no máximo um degrau devem ter parte de sua extensão substituída por rampa com largura mínima de 0,90 m e com inclinação em função do desnível apresentado e atendendo aos parâmetros estabelecidos nas Tabelas 4 e 5. Parte do desnível deve ser vencido com rampa, e o restante da extensão pode permanecer com degrau, desde que associado, no mínimo em um dos lados, a uma barra de apoio horizontal ou vertical, com comprimento mínimo de 0,30 m e com seu eixo posicionado a 0,75 m de altura do piso, sem avançar sobre a área de circulação pública.
+
+-----------------------------------------------------------------------------
+
+Em rotas acessíveis, as grelhas e juntas de dilatação devem estar fora do ﬂuxo principal de circulação. Quando não possível tecnicamente, os vãos devem ter dimensão máxima de 15 mm, devem ser instalados perpendicularmente ao ﬂuxo principal ou ter vãos de formato quadriculado/circular, quando houver ﬂuxos em mais de um sentido de circulação.
+
+-----------------------------------------------------------------------------
+
+A superfície das tampas deve estar nivelada com o piso adjacente, e eventuais frestas devem possuir dimensão máxima de 15 mm. As tampas devem estar preferencialmente fora do ﬂuxo principal de circulação.
+As tampas devem ser ﬁrmes, estáveis e antiderrapantes sob qualquer condição, e a sua eventual textura, estampas ou desenhos na superfície não podem ser similares à da sinalização de piso tátil de alerta ou direcional.
+
+-----------------------------------------------------------------------------
+
+Capachos, forrações, carpetes, tapetes e similares
+Devem ser evitados em rotas acessíveis.
+Quando existentes, devem ser ﬁrmemente ﬁxados ao piso, embutidos ou sobrepostos e nivelados de maneira que eventual desnível não exceda 5 mm. As superfícies não podem ter enrugamento e as felpas ou forros não podem prejudicar o deslocamento das pessoas.
+
+-----------------------------------------------------------------------------
+
+A sinalização visual e tátil no piso indica situações de risco e direção. Deve atender ao disposto em 5.4.6 e em normas especíﬁcas.
+
+-----------------------------------------------------------------------------
+
+As rotas de fuga devem atender ao disposto na ABNT NBR 9077 e outras regulamentações locais contra incêndio e pânico. As portas de corredores, acessos, áreas de resgate, escadas de emergência e descargas integrantes de rotas de fuga acessíveis devem ser dotadas de barras antipânico, conforme ABNT NBR 11785.
+
+-----------------------------------------------------------------------------
+
+Quando em ambientes fechados, as rotas de fuga devem ser sinalizadas conforme o disposto na Seção 5, na ABNT NBR 13434 e iluminadas com dispositivos de balizamento de acordo com o estabelecido na ABNT NBR 10898..4.1.3 Quando as rotas de fuga incorporarem escadas de emergência ou elevadores de emergência devem ser previstas áreas de resgate com espaço reservado para P.C.R. sinalizado conforme 5.5.2.2 e de acordo com 6.4.5.
+
+-----------------------------------------------------------------------------
+
+A área de resgate deve ter espaço reservado para P.C.R. com as seguintes características:
+a) estar localizado fora do ﬂuxo principal de circulação;
+b) ser provido de dispositivo de emergência ou intercomunicador atendendo ao disposto em 4.6.9.
+c) ser sinalizado conforme 5.5.2.2.
+
+-----------------------------------------------------------------------------
+
+Nas áreas de resgate deve ser previsto no mínimo um espaço reservado para P.C.R., por pavimento, a cada 500 pessoas de lotação do edifício, para cada escada e elevador de emergência. Se a antecâmara das escadas e a dos elevadores de emergência forem comuns, o quantitativo do espaço reservado para P.C.R. pode ser compartilhado.
+
+
+-----------------------------------------------------------------------------
+
+Em ediﬁcações existentes, em que seja impraticável a previsão da área de resgate, deve ser deﬁnido um plano de fuga em que constem os procedimentos de resgate para as pessoas com os diferentes tipos de deﬁciência.
+
+-----------------------------------------------------------------------------
+
+Recomenda-se prever uma área de descanso, fora da faixa de circulação, a cada 50 m, para piso com até 3 % de inclinação, ou a cada 30 m, para piso de 3 % a 5 % de inclinação. Recomenda-se a instalação de bancos com encosto e braços. Para inclinações superiores a 5 %, deve ser atendido o descrito em 6.6. Estas áreas devem estar dimensionadas para permitir também a manobra de cadeiras de rodas.
+
+-----------------------------------------------------------------------------
+
+São consideradas rampas às superfícies de piso com declividade igual ou superior a 5 %. Os pisos das rampas devem atender às condições de 6.3.
+
+-----------------------------------------------------------------------------
+
+Para garantir que uma rampa seja acessível, são deﬁnidos os limites máximos de inclinação, os desníveis a serem vencidos e o número máximo de segmentos.A inclinação das rampas, conforme Figura 70.
+
+
+-----------------------------------------------------------------------------
+
+As rampas devem ter inclinação de acordo com os limites estabelecidos na Tabela 4. Para inclinação entre 6,25 % e 8,33 % é recomendado criar áreas de descanso (ver 6.5) nos patamares, a cada 50 m de percurso. Excetuam-se deste requisito as rampas citadas em 10.4 (plateia e palcos), 10.12 (piscinas) e 10.14 (praias).
+
+-----------------------------------------------------------------------------
+
+Em reformas, quando esgotadas as possibiliades de soluções que atendam integralmente à Tabela 4, podem ser utilizadas inclinações superiores a 8,33 % (1:12) até 12,5 % (1:8), conforme Tabela 5
+
+-----------------------------------------------------------------------------
+
+Para rampas em curva, a inclinação máxima admissível é de 8,33 % (1:12) e o raio mínimo de 3,00 m, medido no perímetro interno à curva, conforme Figura 71.
+
+-----------------------------------------------------------------------------
+
+A inclinação transversal não pode exceder 2 % em rampas internas e 3 % em rampas externas.
+
+-----------------------------------------------------------------------------
+
+A largura das rampas (L) deve ser estabelecida de acordo com o ﬂuxo de pessoas. A largura livre mínima recomendável para as rampas em rotas acessíveis é de 1,50 m, sendo o mínimo admissível de 1,20 m.
+
+-----------------------------------------------------------------------------
+
+Toda rampa deve possuir corrimão de duas alturas em cada lado, conforme demonstrado na Figura 72.
+
+-----------------------------------------------------------------------------
+
+Em ediﬁcações existentes, quanto a construção de rampas nas larguras indicadas ou a adaptação da largura das rampas for impraticavel, as rampas podem ser executadas com largura mínima de 0,90 m e com segmentos de no máximo 4,00 m de comprimento, medidos na sua projeção horizontal, desde que respeitadas as Tabelas 4 e 5. No caso de mudança de direção, devem ser respeitados os parâmetros de área de área de circulação e manobra previstos em 4.3.
+
+-----------------------------------------------------------------------------
+
+Quando não houver paredes laterais, as rampas devem incorporar elementos de segurança, como guarda-corpo e corrimãos, guias de balizamento com altura mínima de 0,05 m, instalados ou construídos nos limites da largura da rampa, conforme Figura 72.
+
+-----------------------------------------------------------------------------
+
+A projeção dos corrimãos pode incidir dentro da largura mínima admissível da rampa em até 10 cm de cada lado, exceto nos casos previstos em 6.6.2.7.
+
+-----------------------------------------------------------------------------
+
+A guia de balizamento pode ser de alvenaria ou outro material alternativo, com a mesma ﬁnalidade, com altura mínima de 5 cm. Deve atender às especiﬁcações da Figura 72 e ser garantida em rampas e em escadas.
+
+-----------------------------------------------------------------------------
+

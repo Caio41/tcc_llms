@@ -7,10 +7,11 @@ def refinar_texto(arquivo):
     texto = remocao_cabecalho(texto)
     texto = remover_tabelas(texto)
     texto = extrair_secoes(texto)
+    texto = remover_numeracao(texto)
 
     # texto = remover_notas(texto)
            
-    with open('texto_refinado5.txt', 'w', encoding='utf-8') as f:
+    with open('texto_refinado2.txt', 'w', encoding='utf-8') as f:
         f.write(texto)
     
     print('texto refinado!!!!')
@@ -48,8 +49,8 @@ def remocao_cabecalho(texto):
     # © ABNT 2004 ... reservados com ou sem número antes/depois
     # Cópia não autorizada
     to_remove = [
-        r"\d*\s*ABNT\s*NBR\s*5410:2004\s*\d*",
-        r"\d*\s*©\s*ABNT\s*2004.*?reservados\s*\d*",
+        r"\d*\s*ABNT\s*NBR\s*9050:2020\s*\d*",
+        r"\d*\s*©\s*ABNT\s*2020.*?reservados\s*\d*",
         r"\d*\s*C[oó]pia\s*n[aã]o\s*autorizada\s*\d*",
     ]
 
@@ -58,6 +59,9 @@ def remocao_cabecalho(texto):
 
     return texto
 
+
+def remover_numeracao(texto):
+    return re.sub(r'^\d+(?:\.\d+)*\s*', '', texto, flags=re.MULTILINE)
 
 
 def remover_notas(texto):
@@ -88,4 +92,4 @@ texto = '''
 #print(encontrar_estranhos('texto_extraido_fitz2.txt'))
 #print(remocao_cabecalho(texto))
 #refinar_texto('texto_extraido.txt')
-refinar_texto('texto_extraido.txt')
+refinar_texto('texto_extraido2.txt')

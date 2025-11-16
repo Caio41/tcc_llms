@@ -1,0 +1,60 @@
+componente (de uma instalação elétrica): Termo empregado para designar itens da instalação que, dependendo do contexto, podem ser materiais, acessórios, dispositivos, instrumentos, equipamentos (de geração, conversão, transformação, transmissão, armazenamento, distribuição ou utilização de eletricidade), máquinas, conjuntos ou mesmo segmentos ou partes da instalação (por exemplo, linhas elétricas).
+
+-----------------------------------------------------------------------------
+
+quadro de distribuição principal: Primeiro quadro de distribuição após a entrada da linha elétrica na edificação. Naturalmente, o termo se aplica a todo quadro de distribuição que seja o único de uma edificação.
+NOTA Ver definição de "ponto de entrada (numa edificação)´ (3.4.4).
+
+-----------------------------------------------------------------------------
+
+elemento condutivo ou parte condutiva: Elemento ou parte constituída de material condutor, pertencente ou não à instalação, mas que não é destinada normalmente a conduzir corrente elétrica.
+
+-----------------------------------------------------------------------------
+
+proteção básica: Meio destinado a impedir contato com partes vivas perigosas em condições normais.
+
+-----------------------------------------------------------------------------
+
+proteção supletiva: Meio destinado a suprir a proteção contra choques elétricos quando massas ou partes condutivas acessíveis tornam-se acidentalmente vivas.
+
+-----------------------------------------------------------------------------
+
+proteção adicional: Meio destinado a garantir a proteção contra choques elétricos em situações de maior risco de perda ou anulação das medidas normalmente aplicáveis, de dificuldade no atendimento pleno das condições de segurança associadas a determinada medida de proteção e/ou, ainda, em situações ou locais em que os perigos do choque elétrico são particularmente graves.
+
+-----------------------------------------------------------------------------
+
+dispositivo de proteção a corrente diferencial-res3idual (formas abreviadas: dispositivo a corrente diferencial-residual, dispositivo diferencial, dispositivo DR): Dispositivo de seccionamento mecânico ou associação de dispositivos destinada a provocar a abertura de contatos quando a corrente diferencial- residual atinge um valor dado em condições especificadas.
+NOTA O termo ³dispositivo´ não deve ser entendido como significando um produto particular, mas sim qualquer forma possível de se implementar a proteção diferencial-residual. São exemplos de tais formas: o interruptor, disjuntor ou tomada com proteção diferencial-residual incorporada, os blocos e módulos de proteção diferencial-residual acopláveis a disjuntores, os relés e transformadores de corrente que se podem associar a disjuntores, etc.
+
+-----------------------------------------------------------------------------
+
+SELV (do inglês ³separated extra-low voltage´): Sistema de extrabaixa tensão que é eletricamente separado da terra, de outros sistemas e de tal modo que a ocorrência de uma única falta não resulta em risco de choque elétrico.
+
+-----------------------------------------------------------------------------
+
+PELV (do inglês ³protected extra-low voltage´): Sistema de extrabaixa tensão que não é eletricamente separado da terra mas que preenche, de modo equivalente, todos os requisitos de um SELV.
+
+-----------------------------------------------------------------------------
+
+Proteção contra choques elétricos e proteção contra sobretensões e perturbações eletromagnéticas
+
+-----------------------------------------------------------------------------
+
+eqüipotencialização: Procedimento que consiste na interligação de elementos especificados, visando obter a eqüipotencialidade necessária para os fins desejados. Por extensão, a própria rede de elementos interligados resultante.NOTA A eqüipotencialização é um recurso usado na proteção contra choques elétricos e na proteção contra sobretensões e perturbações eletromagnéticas. Uma determinada eqüipotencialização pode ser satisfatória para a proteção contra choques elétricos, mas insuficiente sob o ponto de vista da proteção contra perturbações eletromagnéticas.
+
+-----------------------------------------------------------------------------
+
+barramento de eqüipotencialização principal (BEP): Barramento destinado a servir de via de interligação de todos os elementos incluíveis na eqüipotencialização principal (ver 6.4.2.1).
+NOTA A designação ³barramento´ está associada ao papel de via de interligação e não a qualquer configuração particular do elemento. Portanto, em princípio o BEP pode ser uma barra, uma chapa, um cabo, etc.
+
+-----------------------------------------------------------------------------
+
+barramento de eqüipotencialização suplementar ou barramento de eqüipotencialização local (BEL): Barramento destinado a servir de via de interligação de todos os elementos incluíveis numa eqüipotencialização suplementar ou eqüipotencialização local.
+
+-----------------------------------------------------------------------------
+
+equipamento de tecnologia da informação (ETI): Equipamento concebido com o objetivo de:
+a) receber dados de uma fonte externa (por exemplo, via linha de entrada de dados ou via teclado);
+b) processar os dados recebidos (por exemplo, executando cálculos, transformando ou registrando os dados, arquivando-os, triando-os, memorizando-os, transferindo-os); e
+c) fornecer dados de saída (seja a outro equipamento, seja reproduzindo dados ou imagens).
+NOTA Esta definição abrange uma ampla gama de equipamentos, como, por exemplo: computadores; equipamentos transceptores, concentradores e conversores de dados; equipamentos de telecomunicação e de transmissão de dados; sistemas de alarme contra incêndio e intrusão; sistemas de controle e automação predial, etc.

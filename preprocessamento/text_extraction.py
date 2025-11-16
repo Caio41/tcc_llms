@@ -31,11 +31,12 @@ def extract_pdfplumber():
 
 
 def extract_pymupdf():
-    doc = fitz.open('normas/nbr5410.pdf')
+    doc = fitz.open('normas/nbr9050.pdf')
     texto = ''
 
     # Se for precisar fazer mais nuancias nessa extração de texto, investigar essa extração por 'blocks' ai.
-    for i in range(14, len(doc)):
+    # esse for aqui é as paginas do pdf
+    for i in range(65, 72):
         page = doc[i]
         blocks = page.get_text('blocks')  
 
@@ -46,7 +47,7 @@ def extract_pymupdf():
     
     doc.close()
 
-    with open('texto_extraido.txt', 'w', encoding='utf-8') as txt:
+    with open('texto_extraido2.txt', 'w', encoding='utf-8') as txt:
         txt.write(texto)
 
 
