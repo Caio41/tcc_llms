@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "index": 1,
+            "texto_original": "As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas por uma ou mais rotas acessíveis. \n\nAs ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais devem ser acessíveis em suas áreas de uso comum. \n\nAs unidades autônomas acessíveis devem estar conectadas às rotas acessíveis. \n\nÁreas de uso restrito, conforme deﬁnido em 3.1.38, como casas de máquinas, barriletes, passagem de uso técnico e outros com funções similares, não necessitam atender às condições de acessibilidade desta Norma.",
+            "sentenca": "As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas por uma ou mais rotas acessíveis",
+            "operadores": [
+                "Requisito: 'As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas por uma ou mais rotas acessíveis'",
+                "Aplicabilidade: ''",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "index": 1,
+            "texto_original": "As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas por uma ou mais rotas acessíveis. \n\nAs ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais devem ser acessíveis em suas áreas de uso comum. \n\nAs unidades autônomas acessíveis devem estar conectadas às rotas acessíveis. \n\nÁreas de uso restrito, conforme deﬁnido em 3.1.38, como casas de máquinas, barriletes, passagem de uso técnico e outros com funções similares, não necessitam atender às condições de acessibilidade desta Norma.",
+            "sentenca": "As ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais devem ser acessíveis em suas áreas de uso comum",
+            "operadores": [
+                "Requisito: 'As ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais devem ser acessíveis em suas áreas de uso comum'",
+                "Aplicabilidade: ''",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "index": 1,
+            "texto_original": "As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas por uma ou mais rotas acessíveis. \n\nAs ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais devem ser acessíveis em suas áreas de uso comum. \n\nAs unidades autônomas acessíveis devem estar conectadas às rotas acessíveis. \n\nÁreas de uso restrito, conforme deﬁnido em 3.1.38, como casas de máquinas, barriletes, passagem de uso técnico e outros com funções similares, não necessitam atender às condições de acessibilidade desta Norma.",
+            "sentenca": "As unidades autônomas acessíveis devem estar conectadas às rotas acessíveis",
+            "operadores": [
+                "Requisito: 'devem'",
+                "Aplicabilidade: 'estar'",
+                "Seleção: 'conectadas'",
+                "Exclusão: ''"
+            ]
+        }
+    ]
+}

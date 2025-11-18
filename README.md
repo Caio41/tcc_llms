@@ -4,8 +4,9 @@ Fase 1 - Pré-processamento
 * Experimentando com função `extrair_secoes`, talvez de p remover as tabelas verificando o padrão Tabela {x}
 
 
+Fase 2 - Aplicação dos modelos
+* Experimentar com diferentes modelos (1b, 3b, 7b, etc)
+* Experimentar diferentes técnicas de prompting (zero-shot, few-shot)
+* Obter resultado de modelo N1
+* Obter resultado de modelo N2
 
-
-Perguntas:
-- Devo retirar as 'NOTAS' ?
-- Devo retirar os números das seções ? (Exemplo: '5.1.2 Medidas de proteção')

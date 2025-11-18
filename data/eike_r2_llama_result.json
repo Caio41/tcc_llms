@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "texto_original": "As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas por uma ou mais rotas acessíveis. \n\nAs ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais devem ser acessíveis em suas áreas de uso comum. \n\nAs unidades autônomas acessíveis devem estar conectadas às rotas acessíveis. \n\nÁreas de uso restrito, conforme deﬁnido em 3.1.38, como casas de máquinas, barriletes, passagem de uso técnico e outros com funções similares, não necessitam atender às condições de acessibilidade desta Norma.",
+            "operadores": [
+                "Requisito: As áreas de qualquer espaço ou ediﬁcação de uso público ou coletivo devem ser servidas por uma ou mais rotas acessíveis",
+                "Aplicabilidade: As ediﬁcações residenciais multifamiliares, condomínios e conjuntos habitacionais devem ser acessíveis em suas áreas de uso comum",
+                "Seleção: As unidades autônomas acessíveis devem estar conectadas às rotas acessíveis",
+                "Exclusão: Áreas de uso restrito, conforme deﬁnido em 3.1.38, como casas de máquinas, barriletes, passagem de uso técnico e outros com funções similares, não necessitam atender às condições de acessibilidade desta Norma"
+            ]
+        },
+        {
+            "texto_original": "A rota acessível é um trajeto contínuo, desobstruído e sinalizado que conecta os ambientes externos e internos de espaços e ediﬁcações. \n\nA rota acessível pode ser utilizada de forma autônoma e segura por todas as pessoas.\n\nA rota acessível externa incorpora estacionamentos, calçadas, faixas de travessias de pedestres (elevadas ou não), rampas, escadas, passarelas e outros elementos da circulação. \n\nA rota acessível interna incorpora corredores, pisos, rampas, escadas, elevadores e outros elementos da circulação.\n\nA rota acessível externa deve ser utilizada por pessoas com mobilidade reduzida ou deficiência.",
+            "operadores": [
+                "Requisito: 'desobstruído'",
+                "Aplicabilidade: 'calçadas, faixas de travessias de pedestres (elevadas ou não), rampas, escadas, passarelas e outros elementos da circulação.'",
+                "Seleção: 'corredores, pisos, rampas, escadas, elevadores e outros elementos da circulação.'",
+                "Exclusão: 'pessoas com mobilidade reduzida ou deficiência.'"
+            ]
+        },
+        {
+            "texto_original": "Toda rota acessível deve ser provida de iluminação natural ou artiﬁcial com nível mínimo de ilu- minância de 150 lux medidos a 1,00 m do chão. \n\nSão aceitos níveis inferiores de iluminância para ambientes especíﬁcos, como cinemas, teatros ou outros, conforme normas técnicas especíﬁcas.",
+            "operadores": [
+                "Requisito: Toda rota acessível deve ser provida de iluminação natural ou artiﬁcial com nível mínimo de ilu- minância de 150 lux medidos a 1,00 m do chão",
+                "Aplicabilidade: São aceitos níveis inferiores de iluminância para ambientes especíﬁcos, como cinemas, teatros ou outros, conforme normas técnicas especíﬁcas",
+                "Seleção: ambientes especíﬁcos",
+                "Exclusão:"
+            ]
+        },
+        {
+            "texto_original": "Todas as entradas em ediﬁcações e equipamentos urbanos devem ser acessíveis. \n\nAs rotas de interligação às funções do edifício devem ser acessíveis.",
+            "operadores": [
+                "Requisito: 'Todas as entradas em ediﬁcações e equipamentos urbanos devem ser acessíveis.'",
+                "Aplicabilidade: 'As rotas de interligação às funções do edifício devem ser acessíveis.'",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "Todas as entradas em ediﬁcações e equipamentos urbanos existentes devem ser acessíveis.  \nCaso não seja possível, desde que comprovado tecnicamente, deve ser adaptado o maior número de acessos.  \nA distância entre cada entrada acessível e as demais não pode ser superior a 50 m.  \nA entrada predial principal ou a entrada de acesso do maior número de pessoas tem a obrigatoriedade de atender a todas as condições de acessibilidade.  \nO acesso por entradas secundárias somente é aceito se esgotadas todas as possibilidades de adequação da entrada principal e se justiﬁcado tecnicamente.",
+            "operadores": [
+                "Requisito: Todas as entradas em ediﬁcações e equipamentos urbanos existentes devem ser acessíveis",
+                "Aplicabilidade: Caso não seja possível, desde que comprovado tecnicamente,",
+                "Seleção: A distância entre cada entrada acessível e as demais não pode ser superior a 50 m",
+                "Exclusão: O acesso por entradas secundárias somente é aceito se esgotadas todas as possibilidades de adequação da entrada principal e se justiﬁcado tecnicamente"
+            ]
+        },
+        {
+            "texto_original": "Os acessos devem ser vinculados através de uma rota acessível à circulação principal e às circulações de emergência. \n\nOs acessos devem permanecer livres de quaisquer obstáculos em todo o tempo.",
+            "operadores": [
+                "Requisito: 'devem'",
+                "Aplicabilidade: 'à circulação principal e às circulações de emergência'",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "O percurso entre o estacionamento de veículos e os acessos deve compor uma rota acessível. \n\nQuando da impraticabilidade de se executar rota acessível entre o estacionamento e acessos, devem ser previstas vagas de estacionamento para pessoas com deficiência e para pessoas idosas a uma distância máxima de 50 m até um acesso acessível.\n\nQuando existirem dispositivos de segurança e para controle de acesso, do tipo catracas, cance-las, portas ou outros, pelo menos um deles em cada conjunto deve ser acessível.",
+            "operadores": [
+                "Requisito: 'O percurso entre o estacionamento de veículos e os acessos deve compor uma rota acessível.'",
+                "Aplicabilidade: 'Quando da impraticabilidade de se executar rota acessível entre o estacionamento e acessos'",
+                "Seleção: 'vagas de estacionamento para pessoas com deficiência e para pessoas idosas a uma distância máxima de 50 m até um acesso acessível.'",
+                "Exclusão: 'Quando existirem dispositivos de segurança e para controle de acesso, do tipo catracas, cance-las, portas ou outros'"
+            ]
+        },
+        {
+            "texto_original": "A instalação do dispositivo acessível para controle de acesso deve prever manobra de cadeira de rodas.\nO dispositivo acessível para controle de acesso deve ser instalado conforme o disposto em 4.3.2, 4.3.4 e 4.3.5.\nOs comandos acionáveis por usuários devem estar posicionados à altura indicada em 4.6.9.",
+            "operadores": [
+                "Requisito: 'manobra de cadeira de rodas'",
+                "Aplicabilidade: '4.3.2, 4.3.4 e 4.3.5'",
+                "Seleção: '4.6.9'",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "Quando existir porta giratória, deve ser prevista outra entrada que garanta condições de acessibilidade. \n\nPortas giratórias devem ser evitadas. \n\nQuando forem instaladas, as dimensões entre as pás devem ser compatíveis com as medidas necessárias para o deslocamento de uma pessoa em cadeira de rodas. \n\nPortas giratórias devem ser dotadas de sistema de segurança para rebatimento das pás em caso de sinistro.",
+            "operadores": [
+                "Requisito: Quando existir porta giratória, deve ser prevista outra entrada que garanta condições de acessibilidade",
+                "Aplicabilidade: Portas giratórias devem ser evitadas",
+                "Seleção: Quando forem instaladas, as dimensões entre as pás devem ser compatíveis com as medidas necessárias para o deslocamento de uma pessoa em cadeira de rodas",
+                "Exclusão: Portas giratórias devem ser dotadas de sistema de segurança para rebatimento das pás em caso de sinistro"
+            ]
+        },
+        {
+            "texto_original": "Deve ser prevista a sinalização informativa e direcional da localização das entradas e saídas acessíveis. \n\nA sinalização deve estar de acordo com o estabelecido na Seção 5.",
+            "operadores": [
+                "Requisito: Deve ser prevista",
+                "Aplicabilidade: a sinalização deve estar de acordo com o estabelecido na Seção 5.",
+                "Seleção:",
+                "Exclusão:"
+            ]
+        },
+        {
+            "texto_original": "A circulação pode ser horizontal e vertical.\nA circulação vertical pode ser realizada por escadas, rampas ou equipamentos eletromecânicos.\nA circulação vertical é considerada acessível quando atender no mínimo a duas formas de deslocamento vertical.",
+            "operadores": [
+                "Requisito: 'A circulação pode ser horizontal e vertical.'",
+                "Aplicabilidade: 'A circulação vertical'",
+                "Seleção: 'rampas ou equipamentos eletromecânicos'",
+                "Exclusão: 'atender no mínimo a duas formas de deslocamento vertical'"
+            ]
+        },
+        {
+            "texto_original": "Os pisos devem atender às características de revestimento.  \nOs pisos devem atender às características de inclinação.  \nOs pisos devem atender às características de desnível.",
+            "operadores": [
+                "Requisito: 'atender às características de revestimento'",
+                "Aplicabilidade: ''",
+                "Seleção: 'atender às características de inclinação'",
+                "Exclusão: 'atender às características de desnível'"
+            ]
+        },
+        {
+            "texto_original": "Os materiais de revestimento e acabamento devem ter superfície regular.  \nOs materiais de revestimento e acabamento devem ter superfície estável.  \nOs materiais de revestimento e acabamento devem ter superfície não trepidante para dispositivos com rodas.  \nOs materiais de revestimento e acabamento devem ter superfície antiderrapante sob qualquer condição (seco ou molhado).  \nDeve-se evitar a utilização de padronagem na superfície do piso que possa causar sensação de insegurança.  \nDeve-se evitar a utilização de padronagem em estampas que pelo contraste de desenho ou cor possam causar a impressão de tridimensionalidade.",
+            "operadores": [
+                "Requisito: superfície regular",
+                "Aplicabilidade: superfície estável",
+                "Seleção: superfície não trepidante para dispositivos com rodas",
+                "Exclusão: superfície antiderrapante sob qualquer condição (seco ou molhado)"
+            ]
+        },
+        {
+            "texto_original": "A inclinação transversal da superfície de pisos internos deve ser de até 2 %. \nA inclinação longitudinal da superfície de pisos internos deve ser inferior a 5 %. \nA inclinação transversal da superfície de pisos externos deve ser de até 3 %. \nA inclinação longitudinal da superfície de pisos externos deve ser inferior a 5 %. \nInclinações iguais ou superiores a 5 % são consideradas rampas e devem atender à regra 6.6.",
+            "operadores": [
+                "Requisito: '2 %'",
+                "Aplicabilidade: '5 %'",
+                "Seleção: ''",
+                "Exclusão: '5 %'"
+            ]
+        },
+        {
+            "texto_original": "Desníveis de qualquer natureza devem ser evitados em rotas acessíveis. \n\nEventuais desníveis no piso de até 5 mm dispensam tratamento especial. \n\nDesníveis superiores a 5 mm até 20 mm devem possuir inclinação máxima de 1:2 (50 %). \n\nDesníveis superiores a 20 mm, quando inevitáveis, devem ser considerados como degraus.",
+            "operadores": [
+                "Requisito: Desníveis de qualquer natureza devem ser evitados em rotas acessíveis",
+                "Aplicabilidade: Eventuais desníveis no piso de até 5 mm dispensam tratamento especial",
+                "Seleção: Desníveis superiores a 5 mm até 20 mm devem possuir inclinação máxima de 1:2 (50 %)",
+                "Exclusão: Desníveis superiores a 20 mm, quando inevitáveis, devem ser considerados como degraus"
+            ]
+        },
+        {
+            "texto_original": "Em reformas, é permitido considerar um desnível máximo de 75 mm. \n\nO desnível máximo de 75 mm deve ser tratado com inclinação máxima de 12,5 %.",
+            "operadores": [
+                "Requisito: 'Deve ser tratado'",
+                "Aplicabilidade: 'Inclinação máxima de 12,5 %'",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "Nas áreas de circulação, quando o desnível for lateral, deve ser observado o descrito em 4.3.7.",
+            "operadores": [
+                "Requisito: 'não é necessário'",
+                "Aplicabilidade: 'áreas de circulação'",
+                "Seleção: ''",
+                "Exclusão: '4.3.7'"
+            ]
+        },
+        {
+            "texto_original": "As soleiras das portas ou vãos de passagem que apresentem desníveis de até no máximo um degrau devem ter parte de sua extensão substituída por rampa com largura mínima de 0,90 m. \n\nA rampa deve ter inclinação em função do desnível apresentado e atender aos parâmetros estabelecidos nas Tabelas 4 e 5.\n\nParte do desnível deve ser vencido com rampa, e o restante da extensão pode permanecer com degrau. \n\nO restante da extensão pode permanecer com degrau desde que associado a uma barra de apoio horizontal ou vertical. \n\nA barra de apoio horizontal ou vertical deve ter comprimento mínimo de 0,30 m. \n\nO eixo da barra de apoio horizontal ou vertical deve estar posicionado a 0,75 m de altura do piso.",
+            "operadores": [
+                "Requisito: As soleiras das portas ou vãos de passagem que apresentem desníveis de até no máximo um degrau devem ter parte de sua extensão substituída por rampa com largura mínima de 0,90 m",
+                "Aplicabilidade: Parte do desnível deve ser vencido com rampa, e o restante da extensão pode permanecer com degrau",
+                "Seleção: O restante da extensão pode permanecer com degrau desde que associado a uma barra de apoio horizontal ou vertical",
+                "Exclusão: A barra de apoio horizontal ou vertical deve ter comprimento mínimo de 0,30 m"
+            ]
+        },
+        {
+            "texto_original": "As grelhas e juntas de dilatação em rotas acessíveis devem estar fora do fluxo principal de circulação. \n\nQuando não possível tecnicamente, os vãos devem ter dimensão máxima de 15 mm. \n\nOs vãos devem ser instalados perpendicularmente ao fluxo principal. \n\nOs vãos devem ter formato quadriculado/circular quando houver fluxos em mais de um sentido de circulação.",
+            "operadores": [
+                "Requisito: As grelhas e juntas de dilatação em rotas acessíveis devem estar fora do fluxo principal de circulação",
+                "Aplicabilidade: Quando não possível tecnicamente, os vãos devem ter dimensão máxima de 15 mm",
+                "Seleção: Os vãos devem ser instalados perpendicularmente ao fluxo principal",
+                "Exclusão: Os vãos devem ter formato quadriculado/circular quando houver fluxos em mais de um sentido de circulação"
+            ]
+        },
+        {
+            "texto_original": "A superfície das tampas deve estar nivelada com o piso adjacente.  \nEventuais frestas devem possuir dimensão máxima de 15 mm.  \n\nAs tampas devem estar preferencialmente fora do fluxo principal de circulação.  \n\nAs tampas devem ser firmes, estáveis e antiderrapantes sob qualquer condição.  \nA superfície das tampas não pode ter textura, estampas ou desenhos similares à da sinalização de piso tátil de alerta ou direcional.",
+            "operadores": [
+                "Requisito: A superfície das tampas deve estar nivelada com o piso adjacente",
+                "Aplicabilidade: Eventuais frestas devem possuir dimensão máxima de 15 mm",
+                "Seleção: As tampas devem estar preferencialmente fora do fluxo principal de circulação",
+                "Exclusão: A superfície das tampas não pode ter textura, estampas ou desenhos similares à da sinalização de piso tátil de alerta ou direcional"
+            ]
+        },
+        {
+            "texto_original": "Capachos, forrações, carpetes, tapetes e similares devem ser evitados em rotas acessíveis. \n\nQuando existentes, devem ser firmemente fixados ao piso, embutidos ou sobrepostos e nivelados de maneira que eventual desnível não exceda 5 mm. \n\nAs superfícies devem não ter enrugamento. \n\nAs felpas ou forros devem não prejudicar o deslocamento das pessoas.",
+            "operadores": [
+                "Requisito: 'Capachos, forrações, carpetes, tapetes e similares devem ser evitados em rotas acessíveis.'",
+                "Aplicabilidade: ''",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "A sinalização visual e tátil no piso deve indicar situações de risco e direção. \n\nA sinalização visual e tátil no piso deve atender ao disposto em 5.4.6. \n\nA sinalização visual e tátil no piso deve atender a normas especíﬁcas.",
+            "operadores": [
+                "Requisito: 'atender ao disposto em 5.4.6.'",
+                "Aplicabilidade: 'normas especíﬁcas'",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "As rotas de fuga devem atender ao disposto na ABNT NBR 9077 e outras regulamentações locais contra incêndio e pânico. \n\nAs portas de corredores, acessos, áreas de resgate, escadas de emergência e descargas integrantes de rotas de fuga devem ser dotadas de barras antipânico conforme ABNT NBR 11785.",
+            "operadores": [
+                "Requisito: atender ao disposto na ABNT NBR 9077 e outras regulamentações locais contra incêndio e pânico",
+                "Aplicabilidade: rotas de fuga",
+                "Seleção: portas de corredores, acessos, áreas de resgate, escadas de emergência e descargas integrantes de rotas de fuga",
+                "Exclusão:"
+            ]
+        },
+        {
+            "texto_original": "Quando em ambientes fechados, as rotas de fuga devem ser sinalizadas conforme a Seção 5.\nAs rotas de fuga devem ser iluminadas com dispositivos de balizamento conforme o estabelecido na ABNT NBR 10898.4.1.\nQuando as rotas de fuga incorporarem escadas de emergência ou elevadores de emergência, devem ser previstas áreas de resgate com espaço reservado para P.C.R., sinalizado conforme 5.5.2.2 e de acordo com 6.4.5.",
+            "operadores": [
+                "Requisito: 'Quando em ambientes fechados'",
+                "Aplicabilidade: 'conforme a Seção 5'",
+                "Seleção: 'com dispositivos de balizamento'",
+                "Exclusão: 'sinalizado conforme 5.5.2.2 e de acordo com 6.4.5'"
+            ]
+        },
+        {
+            "texto_original": "A área de resgate deve ter espaço reservado para P.C.R. com as seguintes características:\n\na) O espaço reservado para P.C.R. deve estar localizado fora do fluxo principal de circulação.\n\nb) O espaço reservado para P.C.R. deve ser provido de dispositivo de emergência ou intercomunicador.\n\nc) O espaço reservado para P.C.R. deve ser sinalizado.",
+            "operadores": [
+                "Requisito: \"O espaço reservado para P.C.R. deve estar localizado fora do fluxo principal de circulação.\"",
+                "Aplicabilidade: \"O espaço reservado para P.C.R. deve ser provido de dispositivo de emergência ou intercomunicador.\"",
+                "Seleção: \"O espaço reservado para P.C.R. deve ser sinalizado.\"",
+                "Exclusão: \"\""
+            ]
+        },
+        {
+            "texto_original": "Nas áreas de resgate deve ser previsto no mínimo um espaço reservado para P.C.R., por pavimento, a cada 500 pessoas de lotação do edifício. \n\nSe a antecâmara das escadas e a dos elevadores de emergência forem comuns, o quantitativo do espaço reservado para P.C.R. pode ser compartilhado.",
+            "operadores": [
+                "Requisito: deve ser previsto no mínimo um espaço reservado para P.C.R., por pavimento, a cada 500 pessoas de lotação do edifício",
+                "Aplicabilidade: áreas de resgate",
+                "Seleção: se a antecâmara das escadas e a dos elevadores de emergência forem comuns, o quantitativo do espaço reservado para P.C.R. pode ser compartilhado",
+                "Exclusão:"
+            ]
+        },
+        {
+            "texto_original": "Em ediﬁcações existentes, onde seja impraticável a previsão da área de resgate, deve ser definido um plano de fuga. \n\nO plano de fuga deve conter os procedimentos de resgate para as pessoas com diferentes tipos de deficiência.",
+            "operadores": [
+                "Requisito: 'Deve ser definido um plano de fuga",
+                "Aplicabilidade: 'Em ediﬁcações existentes",
+                "Seleção: 'onde seja impraticável a previsão da área de resgate",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "Recomenda-se prever uma área de descanso, fora da faixa de circulação, a cada 50 m para piso com até 3 % de inclinação. \n\nRecomenda-se prever uma área de descanso, fora da faixa de circulação, a cada 30 m para piso de 3 % a 5 % de inclinação.\n\nRecomenda-se a instalação de bancos com encosto e braços.\n\nPara inclinações superiores a 5 %, deve ser atendido o descrito em 6.6.\n\nEstas áreas devem estar dimensionadas para permitir também a manobra de cadeiras de rodas.",
+            "operadores": [
+                "Requisito: 'prever uma área de descanso, fora da faixa de circulação'",
+                "Aplicabilidade: 'a cada 50 m para piso com até 3 % de inclinação'",
+                "Seleção: 'a cada 30 m para piso de 3 % a 5 % de inclinação'",
+                "Exclusão: 'para inclinações superiores a 5 %, deve ser atendido o descrito em 6.6'"
+            ]
+        },
+        {
+            "texto_original": "São consideradas rampas às superfícies de piso com declividade igual ou superior a 5%. \n\nOs pisos das rampas devem atender às condições de 6.3.",
+            "operadores": [
+                "Requisito: 'São consideradas rampas às superfícies de piso com declividade igual ou superior a 5%.'",
+                "Aplicabilidade: ''",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "Rampas devem ter inclinação máxima de 30 graus. \n\nOs desníveis devem ser vencidos em no máximo 1 metro. \n\nA rampa deve ter no máximo 4 segmentos.",
+            "operadores": [
+                "Requisito: 'Rampas devem ter inclinação máxima de 30 graus.'",
+                "Aplicabilidade: 'Os desníveis devem ser vencidos em no máximo 1 metro.'",
+                "Seleção: 'A rampa deve ter no máximo 4 segmentos.'",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "As rampas devem ter inclinação de acordo com os limites estabelecidos na Tabela 4.\n\nPara inclinação entre 6,25 % e 8,33 % é recomendado criar áreas de descanso nos patamares, a cada 50 m de percurso.\n\nExcetuam-se deste requisito as rampas citadas em 10.4 (plateia e palcos), 10.12 (piscinas) e 10.14 (praias).",
+            "operadores": [
+                "Requisito: 'As rampas devem ter inclinação de acordo com os limites estabelecidos na Tabela 4.'",
+                "Aplicabilidade: 'Para inclinação entre 6,25 % e 8,33 % é recomendado criar áreas de descanso nos patamares, a cada 50 m de percurso.'",
+                "Seleção: ''",
+                "Exclusão: 'Excetuam-se deste requisito as rampas citadas em 10.4 (plateia e palcos), 10.12 (piscinas) e 10.14 (praias).'"
+            ]
+        },
+        {
+            "texto_original": "Em reformas, quando esgotadas as possibilidades de soluções que atendam integralmente à Tabela 4, podem ser utilizadas inclinações superiores a 8,33 % (1:12) até 12,5 % (1:8).",
+            "operadores": [
+                "Requisito: esgotadas as possibilidades de soluções que atendam integralmente à Tabela 4",
+                "Aplicabilidade: reformas",
+                "Seleção: 8,33 % (1:12) até 12,5 % (1:8)",
+                "Exclusão:"
+            ]
+        },
+        {
+            "texto_original": "Rampas em curva devem ter inclinação máxima admissível de 8,33 % (1:12). \n\nO raio mínimo de rampas em curva deve ser de 3,00 m, medido no perímetro interno à curva.",
+            "operadores": [
+                "Requisito: 'Rampas em curva devem ter inclinação máxima admissível de 8,33 % (1:12).'",
+                "Aplicabilidade: 'O raio mínimo de rampas em curva deve ser de 3,00 m, medido no perímetro interno à curva.'",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "A inclinação transversal em rampas internas não pode exceder 2 %. \nA inclinação transversal em rampas externas não pode exceder 3 %.",
+            "operadores": [
+                "Requisito: \"\"",
+                "Aplicabilidade: \"rampa interna\"",
+                "Seleção: \"rampa externa\"",
+                "Exclusão: \"\""
+            ]
+        },
+        {
+            "texto_original": "A largura das rampas (L) deve ser estabelecida de acordo com o ﬂuxo de pessoas. \n\nA largura livre mínima recomendável para as rampas em rotas acessíveis é de 1,50 m. \n\nO mínimo admissível de largura para as rampas em rotas acessíveis é de 1,20 m.",
+            "operadores": [
+                "Requisito: L deve ser estabelecida de acordo com o ﬂuxo de pessoas",
+                "Aplicabilidade: L > 1,50 m",
+                "Seleção: L ≥ 1,20 m",
+                "Exclusão: Não há exclusões mencionadas"
+            ]
+        },
+        {
+            "texto_original": "Toda rampa deve possuir corrimão de duas alturas. \n\nCorrimão de duas alturas deve estar em cada lado da rampa.",
+            "operadores": [
+                "Requisito: 'Toda rampa deve possuir corrimão de duas alturas.'",
+                "Aplicabilidade: 'em cada lado da rampa'",
+                "Seleção: ''",
+                "Exclusão: ''"
+            ]
+        },
+        {
+            "texto_original": "Em ediﬁcações existentes, as rampas podem ser executadas com largura mínima de 0,90 m. \n\nQuando a construção de rampas nas larguras indicadas for impraticável, as rampas podem ser executadas com largura mínima de 0,90 m e segmentos de no máximo 4,00 m de comprimento, medidos na sua projeção horizontal.\n\nAs Tabelas 4 e 5 devem ser respeitadas. \n\nNo caso de mudança de direção, as áreas de circulação e manobra previstas em 4.3 devem ser respeitadas.",
+            "operadores": [
+                "Requisito: 'Em ediﬁcações existentes, as rampas podem ser executadas com largura mínima de 0,90 m.'",
+                "Aplicabilidade: 'Quando a construção de rampas nas larguras indicadas for impraticável'",
+                "Seleção: 'e segmentos de no máximo 4,00 m de comprimento, medidos na sua projeção horizontal.'",
+                "Exclusão: 'As Tabelas 4 e 5 devem ser respeitadas.'"
+            ]
+        },
+        {
+            "texto_original": "Quando não houver paredes laterais, as rampas devem incorporar elementos de segurança. \n\nAs rampas devem ter guarda-corpo e corrimãos instalados ou construídos nos limites da largura da rampa. \n\nOs guias de balizamento devem ter altura mínima de 0,05 m.",
+            "operadores": [
+                "Requisito: não houver paredes laterais",
+                "Aplicabilidade: as rampas",
+                "Seleção: elementos de segurança",
+                "Exclusão:"
+            ]
+        },
+        {
+            "texto_original": "A projeção dos corrimãos pode incidir dentro da largura mínima admissível da rampa em até 10 cm de cada lado. \n\nA projeção dos corrimãos não pode incidir dentro da largura mínima admissível da rampa em mais de 10 cm de cada lado.",
+            "operadores": [
+                "Requisito: 'A'",
+                "Aplicabilidade: 'dentro da largura mínima admissível da rampa em até 10 cm de cada lado'",
+                "Seleção: 'A projeção dos corrimãos pode incidir dentro da largura mínima admissível da rampa em até 10 cm de cada lado.'",
+                "Exclusão: 'A projeção dos corrimãos não pode incidir dentro da largura mínima admissível da rampa em mais de 10 cm de cada lado.'"
+            ]
+        },
+        {
+            "texto_original": "A guia de balizamento deve ser de alvenaria ou outro material alternativo.\nA guia de balizamento deve ter altura mínima de 5 cm.\nA guia de balizamento deve atender às especiﬁcações da Figura 72.\nA guia de balizamento deve ser garantida em rampas.\nA guia de balizamento deve ser garantida em escadas.",
+            "operadores": [
+                "Requisito: 'alvenaria ou outro material alternativo'",
+                "Aplicabilidade: 'altura mínima de 5 cm'",
+                "Seleção: 'atender às especiﬁcações da Figura 72'",
+                "Exclusão: 'garantida em rampas'"
+            ]
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-ZERO_SHOT = '''
+ZERO_SHOT_R1 = '''
 ** Instruções **
 -> Você receberá trechos de um texto normativo e deve separá-lo em sentenças curtas e diretas
 -> Cada sentença deve conter somente uma regra computável
@@ -17,7 +17,7 @@ Resposta:
 '''
 
 
-ZERO_SHOT2 = '''
+ZERO_SHOT2_R1 = '''
 ** Instruções ** 
 
 Você receberá um trecho de texto normativo. Sua tarefa é transformá-lo em uma lista de sentenças curtas, diretas e computáveis.
@@ -45,7 +45,7 @@ Resposta:
 '''
 
 
-PROMPT_EIKE = '''
+PROMPT_EIKE_R1 = '''
 A metodologia **RASE N1** transforma textos em unidades menores, onde cada unidade contém **apenas uma única regra computável** com métricas claras.  
 
 ### **Instruções:**  
@@ -90,7 +90,7 @@ Os acessos devem permanecer livres de quaisquer obstáculos de forma permanente.
 '''
 
 
-FEW_SHOT = ''' 
+FEW_SHOT_R1 = ''' 
 ** Instruções **
 -> Você receberá trechos de um texto normativo e deve separá-lo em sentenças curtas e diretas
 -> Cada sentença deve conter somente uma regra computável
@@ -135,3 +135,230 @@ Resposta:
 
 
 COT_PROMPT = ''' '''
+
+
+
+ZERO_SHOT_R2 = '''
+A metodologia RASE é responsável por desenvolver regras computáveis a partir de textos normativos. Sendo baseada em quatro operadores principais:
+
+1. Requisito (R): Representa uma condição que **precisa** ser cumprida.
+2. Aplicabilidade (A): Delimita o universo de uma regra.
+3. Seleção (S): Apresenta diferentes opções em que a regra pode ser pertinente.
+4. Exclusão (E): Define exceções à regra.
+
+** Instruções **
+-> Você receberá trechos contendo regras computáveis e deve aplicar a metodologia RASE neles, identificando os quatro operadores da metodologia.
+-> Caso não identifique algum operador específico, retorne "".
+-> Separe cada operador com um '\n'.
+-> Sua resposta deve conter apenas os operadores identificados, sem reformulações, explicações ou formatações adicionais.
+-> Sua resposta deve ter o formato: Requisito: <resposta> \n Aplicabilidade: <resposta> \n Seleção <resposta> \n Exclusão <resposta>
+-> Retorne os operadores na ordem: Requisito, Aplicabilidade, Seleção, Exclusão.
+
+
+Transforme o texto seguindo as instruções passadas:
+Texto: {texto}
+
+
+Resposta:
+
+'''
+
+
+ZERO_SHOT2_R2 = '''
+A metodologia RASE é responsável por desenvolver regras computáveis a partir de textos normativos. Sendo baseada em quatro operadores principais:
+
+1. Requisito (R) -> OBRIGATÓRIO
+2. Aplicabilidade (A) -> OPCIONAL
+3. Seleção (S) -> OPCIONAL
+4. Exclusão (E) -> OPCIONAL
+
+### **Instruções para cada operador**
+** Operador Requisito **
+-> Esse operador deve **SEMPRE** existir
+-> Deve conter **APENAS** a ação que deve ser cumprida
+-> Sua resposta deve começar com um verbo no infinitivo ou imperativo
+-> Não deve incluir o universo onde a regra se aplica
+
+
+** Operador Aplicabilidade ** 
+-> Esse operador é **opcional**
+-> Deve conter apenas o universo da regra
+-> Não repita o que já está no requisito
+
+
+** Operador Seleção **
+-> Esse operador é **opcional**
+-> Apresenta diferentes opções em que a regra é pertinente
+
+
+** Operador Exclusão **
+-> Esse operador é **opcional**
+-> Define exceções à regra
+
+
+
+### **Instruções Gerais**
+-> Você receberá trechos contendo regras computáveis e deve aplicar a metodologia RASE neles, identificando os quatro operadores da metodologia.
+-> Caso não identifique algum operador específico, retorne "".
+-> Separe cada operador com um '\n'.
+-> Sua resposta deve conter apenas os operadores identificados, sem reformulações, explicações ou formatações adicionais.
+-> Retorne os operadores na ordem: Requisito, Aplicabilidade, Seleção, Exclusão.
+-> Não repita informações entre os operadores.
+-> Sua resposta deve conter somente os quatro operadores, exatamente no formato: 
+
+Requisito: <conteúdo>
+Aplicabilidade: <conteúdo>
+Seleção: <conteúdo>
+Exclusão: <conteúdo>
+
+
+Transforme o texto seguindo as instruções passadas:
+Texto: {texto}
+
+
+Resposta:
+
+'''
+
+
+
+
+FEW_SHOT_R2 = '''
+A metodologia RASE é responsável por desenvolver regras computáveis a partir de textos normativos. Sendo baseada em quatro operadores principais:
+
+1. Requisito (R) -> OBRIGATÓRIO
+2. Aplicabilidade (A) -> OPCIONAL
+3. Seleção (S) -> OPCIONAL
+4. Exclusão (E) -> OPCIONAL
+
+### **Instruções para cada operador**
+** Operador Requisito **
+-> Esse operador deve **SEMPRE** existir
+-> Deve conter **APENAS** a ação que deve ser cumprida
+-> Sua resposta deve começar com um verbo no infinitivo ou imperativo
+-> Não deve incluir o universo onde a regra se aplica
+
+
+** Operador Aplicabilidade ** 
+-> Esse operador é **opcional**
+-> Deve conter apenas o universo da regra
+-> Não repita o que já está no requisito
+
+
+** Operador Seleção **
+-> Esse operador é **opcional**
+-> Apresenta diferentes opções em que a regra é pertinente
+
+
+** Operador Exclusão **
+-> Esse operador é **opcional**
+-> Define exceções à regra
+
+
+
+### **Instruções Gerais**
+-> Você receberá trechos contendo regras computáveis e deve aplicar a metodologia RASE neles, identificando os quatro operadores da metodologia.
+-> Caso não identifique algum operador específico, retorne "".
+-> Separe cada operador com um '\n'.
+-> Sua resposta deve conter apenas os operadores identificados, sem reformulações, explicações ou formatações adicionais.
+-> Retorne os operadores na ordem: Requisito, Aplicabilidade, Seleção, Exclusão.
+-> Não repita informações entre os operadores.
+-> Sua resposta deve conter somente os quatro operadores, exatamente no formato: 
+
+Requisito: <conteúdo>
+Aplicabilidade: <conteúdo>
+Seleção: <conteúdo>
+Exclusão: <conteúdo>
+
+
+Exemplo 1:
+Entrada: Sinalização tátil de escadas rolantes deve ter largura entre 0,25 m e 0,60 m
+
+Saída:
+Requisito: devem ter largura entre 0,25m e 0,60m
+Aplicabilidade: sinalização tátil
+Seleção: escadas rolantes
+Exclusão: ""
+
+
+Exemplo 2:
+Entrada: Os acessos devem ser vinculados através de uma rota acessível à circulação principal e às circulações de emergência
+
+Saída:
+Requisito: devem ser vinculados através de uma rota acessível à circulação principal e às circulações de emergência
+Aplicabilidade: acessos
+Seleção: ""
+Exclusão: ""
+
+
+
+
+Transforme o texto seguindo as instruções passadas:
+Texto: {texto}
+
+
+Resposta:
+
+
+'''
+
+
+
+
+
+EIKE_R2 = '''
+A metodologia **RASE N2** transforma textos normativos em uma estrutura organizada, garantindo que cada parte do texto apareça apenas uma vez, respeitando a seguinte ordem:
+
+---
+
+### **1. Aplicabilidade (Opcional)**
+- **Onde ou quando a regra se aplica.**
+- **Deve ser extraída primeiro, antes de outros elementos.**
+- **Extraído SOMENTE do TEXTO N1.**
+- **NÃO pode conter verbos, ações ou condições.**
+- **Se não houver aplicabilidade, retornar `""` (string vazia).**
+
+### **2. Seleção (Opcional)**
+- **Parte mais específica da aplicabilidade.**
+- **Extraído SOMENTE do TEXTO N1, após a remoção de aplicabilidade.**
+- **Deve ser um subconjunto da aplicabilidade, sem repetir o requisito.**
+- **NÃO pode conter verbos, ações ou condições.**
+- **Se não houver seleção, retornar `""` (string vazia).**
+
+### **3. Exceção (Opcional)**
+- **Casos que NÃO precisam seguir a regra.**
+- **Extraído SOMENTE do TEXTO N1, após a remoção de aplicabilidade e seleção.**
+- **Se um elemento for uma exceção, ele não pode estar em outro campo.**
+- **Se não houver, retornar `""` (string vazia).**
+
+### **4. Requisito (Obrigatório)**
+- **O que deve ser feito (ação ou condição).**
+- **Extraído SOMENTE do TEXTO N1, após a remoção de aplicabilidade, seleção e exceção.**
+- **NÃO pode conter informações da aplicabilidade, seleção ou exceção.**
+- **O requisito deve começar com um verbo e expressar uma ação ou condição clara.**
+
+---
+
+## **Regras obrigatórias**
+**Os elementos devem ser extraídos APENAS do Texto N1.**
+**Cada parte do texto deve aparecer apenas uma vez, na ordem Aplicabilidade > Seleção > Exceção > Requisito.**
+**Se um elemento não existir, retornar `""` (string vazia).**
+**O requisito deve ser a ação ou condição principal e nunca pode ser colocado na seleção.**
+**A seleção deve ser um subconjunto da aplicabilidade e não pode conter ações.**
+**O requisito deve começar com um verbo e expressar uma ação clara.**
+**Retorne somente as resposta.**
+
+---
+
+### **Agora, processe o seguinte texto:**
+
+**Texto N1:**
+"{transform}"
+
+#### **Resposta:**
+aplicabilidade:
+selecao:
+execao:
+requisito:
+
+'''

@@ -10,11 +10,11 @@ import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from preprocessamento.json_creation import quebrar_sentencas
 
-from constants.prompts import FEW_SHOT, PROMPT_EIKE, ZERO_SHOT, ZERO_SHOT2
+from constants.prompts import FEW_SHOT_R1, PROMPT_EIKE_R1, ZERO_SHOT_R1, ZERO_SHOT2_R1
 
 
 prompt = PromptTemplate(
-    template = FEW_SHOT,
+    template = FEW_SHOT_R1,
     input_variables=['texto']
 )
 
