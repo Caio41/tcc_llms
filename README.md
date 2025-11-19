@@ -1,12 +1,8 @@
-Fase 1 - Pré-processamento
-* Extração do texto do PDF das normas usando PyMuPDF (fitz)
-* Refinamento do texto: Deixar apenas itens numerados, remover tabelas (?)
-* Experimentando com função `extrair_secoes`, talvez de p remover as tabelas verificando o padrão Tabela {x}
+Estrutura
 
-
-Fase 2 - Aplicação dos modelos
-* Experimentar com diferentes modelos (1b, 3b, 7b, etc)
-* Experimentar diferentes técnicas de prompting (zero-shot, few-shot)
-* Obter resultado de modelo N1
-* Obter resultado de modelo N2
-
+- Constants: Contém os prompts utilizados
+- Data: .txts e .jsons gerados da extração/refinamento de texto e resultado das LLMs
+- Models: Aplicação dos modelos
+- Normas: PDFs com as normas testadas
+- Preprocessamento: Extração e refinamento do texto dos PDFs
+  
