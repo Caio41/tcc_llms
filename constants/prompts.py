@@ -305,6 +305,110 @@ Resposta:
 
 
 
+FEW_SHOT_R2_TESTE = '''
+A metodologia RASE é responsável por desenvolver regras computáveis a partir de textos normativos. Sendo baseada em quatro operadores principais:
+
+1. Requisito (R) -> OBRIGATÓRIO
+2. Aplicabilidade (A) -> OPCIONAL
+3. Seleção (S) -> OPCIONAL
+4. Exclusão (E) -> OPCIONAL
+
+### **Instruções para cada operador**
+** Operador Requisito **
+-> Esse operador deve **SEMPRE** existir
+-> Deve conter **APENAS** a ação que deve ser cumprida ou a proibição explicíta
+-> Sua resposta deve começar com um verbo no infinitivo ou imperativo
+-> Apenas quando o requisito for uma **PROIBIÇÃO**, sua resposta deve começar com "não"
+-> Não deve incluir o universo onde a regra se aplica
+
+
+** Operador Aplicabilidade ** 
+-> Esse operador é **opcional**
+-> Deve conter apenas o universo da regra
+-> Não repita o que já está no requisito
+
+
+** Operador Seleção **
+-> Esse operador é **opcional**
+-> Apresenta diferentes opções em que a regra é pertinente
+
+
+** Operador Exclusão **
+-> Esse operador é **opcional**
+-> Define exceções à regra
+-> Você deve retornar apenas a opção/objeto ao qual a exceção se refere
+
+
+
+### **Instruções Gerais**
+-> Você receberá trechos contendo regras computáveis e deve aplicar a metodologia RASE neles, identificando os quatro operadores da metodologia.
+-> Caso não identifique algum operador específico, retorne "".
+-> Separe cada operador com um '\n'.
+-> Sua resposta deve conter apenas os operadores identificados, sem reformulações, explicações ou formatações adicionais.
+-> Retorne os operadores na ordem: Requisito, Aplicabilidade, Seleção, Exclusão.
+-> Não repita informações entre os operadores.
+-> Sua resposta deve conter somente os quatro operadores, exatamente no formato: 
+
+Requisito: <conteúdo>
+Aplicabilidade: <conteúdo>
+Seleção: <conteúdo>
+Exclusão: <conteúdo>
+
+
+Exemplo 1:
+Entrada: Sinalização tátil de escadas rolantes deve ter largura entre 0,25 m e 0,60 m
+
+Saída:
+Requisito: devem ter largura entre 0,25m e 0,60m
+Aplicabilidade: sinalização tátil
+Seleção: escadas rolantes
+Exclusão: ""
+
+
+Exemplo 2:
+Entrada: Os acessos devem ser vinculados através de uma rota acessível à circulação principal e às circulações de emergência
+
+Saída:
+Requisito: devem ser vinculados através de uma rota acessível à circulação principal e às circulações de emergência
+Aplicabilidade: acessos
+Seleção: ""
+Exclusão: ""
+
+
+Exemplo 3:
+Entrada: Os condutores PEN não são admitidos nos locais BE2, exceto para circuitos que apenas atravessem o local.
+
+
+Saída:
+Requisito: não são admitidos nos locais BE2
+Aplicabilidade: condutores PEN
+Seleção: ""
+Exclusão: circuitos que atravessam o local
+
+
+
+Exemplo 4:
+Entrada: Para inclinação entre `6,25 %` e `8,33 %` é recomendado criar áreas de descanso nos patamares, a cada 50 m de percurso
+
+
+Saída:
+Requisito: criar áreas de descansando nos patamares a cada 50 m de percurso
+Aplicabilidade: inclinação
+Seleção: entre `6.25%` e `8.33%`
+Exclusão: ""
+
+
+Transforme o texto seguindo as instruções passadas:
+Texto: {texto}
+
+
+Resposta:
+
+
+'''
+
+
+
 
 EIKE_R2 = '''
 A metodologia **RASE N2** transforma textos normativos em uma estrutura organizada, garantindo que cada parte do texto apareça apenas uma vez, respeitando a seguinte ordem:
