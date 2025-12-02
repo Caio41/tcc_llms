@@ -72,19 +72,6 @@ def remover_notas(texto):
 
 
 
-def encontrar_estranhos(arquivo):
-    '''Função p encontrar erros como `res3idual` que eu tinha visto antes, verifica se tem palavras com números no meio delas'''
-    padrao = r'\b[A-Za-zÀ-ú]+\d+[A-Za-zÀ-ú]+\b'
-
-    with open(arquivo, 'r', encoding='utf-8') as f:
-        texto = f.read()
-
-    palavras_estranhas = re.findall(padrao, texto)
-
-    return palavras_estranhas
-
-
-
 texto = '''
 
 '''
